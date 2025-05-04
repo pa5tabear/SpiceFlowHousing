@@ -1,1 +1,3 @@
-data_raw/
+# big raw datasets
+aa-parcel-cli/data_raw/
+*.gpkg
